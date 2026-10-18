@@ -1,10 +1,10 @@
 {
-     "applinks": {
-       "details": [
-         {
-           "appIDs": ["<TEAMID>.eu.tss.tagger"],
-           "components": [{ "/": "/nfc/*", "comment": "NFC tag links" }]
-         }
-       ]
-     }
-   }
+    "applinks": {
+      "details": [
+        {
+          "appIDs": ["989GM94Q6G.tss.tagger"],
+          "components": [{ "/": "/nfc/*", "comment": "NFC tag links" }]
+        }
+      ]
+    }
+  }
